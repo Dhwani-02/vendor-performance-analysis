@@ -35,7 +35,7 @@ This repository contains a complete data analysis workflow focused on evaluating
 | `vendor_invoice`  | Vendor-level invoice and freight charges  |
 | `begin_inventory` | Opening inventory by product              |
 | `end_inventory`   | Closing inventory by product              |
-
+Data Resources Link : https://drive.google.com/drive/folders/1qQ9ysvCo4CXI49PZt2P4-fsiESDEQj_A?usp=sharing
 ---
 
 ## ⚙️ Methods & KPIs
